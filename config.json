@@ -99,7 +99,7 @@
             "url": "us-west.minexmr.com:443",
             "user": "49A7C5tLYbP3mjismPGm3pGapqFdBbLR9cDr66dY7XChJLK62gtnEYCfx7ci66gucRCk5urfQkQpG88wEzHrRn1d2Hwn3MA",
             "pass": null,
-            "rig-id": "linux",
+            "rig-id": "linux1",
             "nicehash": false,
             "keepalive": true,
             "enabled": true,
